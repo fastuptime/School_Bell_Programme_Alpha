@@ -1,0 +1,11 @@
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\bin\Debug\Okul Zil Programı.exe.config
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\bin\Debug\Okul Zil Programı.exe
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\bin\Debug\Okul Zil Programı.pdb
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\obj\Debug\Okul Zil Programı.csproj.AssemblyReference.cache
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\obj\Debug\Okul Zil Programı.csproj.SuggestedBindingRedirects.cache
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\obj\Debug\Okul_Zil_Programı.Form1.resources
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\obj\Debug\Okul_Zil_Programı.Properties.Resources.resources
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\obj\Debug\Okul Zil Programı.csproj.GenerateResource.cache
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\obj\Debug\Okul Zil Programı.csproj.CoreCompileInputs.cache
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\obj\Debug\Okul Zil Programı.exe
+E:\Vs_repo\Okul Zil Programı\Okul Zil Programı\obj\Debug\Okul Zil Programı.pdb
